@@ -1,9 +1,3 @@
-<script>
-    function redirectToPaypal() {
-        window.location.replace('https://paypal.me/apidev234wtf')
-    }
-</script>
-
 <div align="center">
 <img src="https://zappers.in.net/favicon.ico"/>
 <br />
@@ -12,8 +6,10 @@
 <img src="https://img.shields.io/twitter/follow/ApiDev234?style=social" />
 <br />
 <a href='https://ko-fi.com/Q5Q15EYG6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<img onclick="redirectToPaypal()" src="https://img.shields.io/badge/Donate-Paypal-blue" />
+    <a href="https://paypal.me/apidev234wtf" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
 </div>
+
+
 
 # Description
 - Zappers is a free desktop wallpapers site.
