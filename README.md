@@ -13,7 +13,7 @@
 
 # Description
 - Zappers is a free desktop wallpapers site.
-- For Documentation, Click [Here](https://docs.zappers.in.net)
+- For Documentation, Click [Here](https://documenter.getpostman.com/view/18135672/Uz5DrJKQ)
 - The Api is built on top of [Typescript](https://typescriptlang.org),[NestJS](https://nestjs.com),[MongoDB](https://mongodb.com)
 
 # Questions
